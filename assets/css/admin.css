@@ -1,0 +1,11 @@
+.currency_required {
+    color: red;
+}
+
+.adminCurrencyConversion label {
+    font-size: 14px;
+}
+
+.adminCurrencyConversion {
+    padding: 10px 20px;
+}
